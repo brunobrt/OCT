@@ -1,0 +1,3 @@
+D:/Estudo/UFRGS/IC/OCT/cmake-build-debug/CMakeFiles/OCT.dir
+D:/Estudo/UFRGS/IC/OCT/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Estudo/UFRGS/IC/OCT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
